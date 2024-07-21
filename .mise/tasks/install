@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# mise description="Installs the project dependencies"
+
+tuist install --path $MISE_PROJECT_ROOT/apple
+pnpm install -C $MISE_PROJECT_ROOT
