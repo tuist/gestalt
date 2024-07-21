@@ -16,3 +16,13 @@ Gestalt is an open-source knowledge management tool developed by the Tuist team.
 1.  Clone the repository: `git clone https://github.com/tuist/gestalt.git`
 2.  Install system dependencies: `mise install`
 3.  Install project dependencies: `mise run install`
+
+### Projects
+
+| Project | Description |
+| ----- | ----- |
+| [apple](/apple) | Multi-platform Apple-native application |
+| [cli](/cli) | A multi-platform CLI |
+| [website](/web) | A web application |
+| [core](/core) | Rust multi-platform business logic |
+| [docs](/docs) | The documentation site |
