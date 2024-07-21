@@ -2,6 +2,12 @@
 
 Gestalt is an open-source knowledge management tool developed by the Tuist team.
 
+## Motivation
+
+We aim to address the following shortcomings of existing tools:
+- Bad experience due to not embracing the platform patterns.
+- Poor portability due to proprietary graph formats.
+
 ## Principles
 
 - **🌱 Open source:** The best and long-lasting technological solutions are shaped and built in the open (e.g. Linux).
